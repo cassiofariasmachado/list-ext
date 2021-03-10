@@ -2,7 +2,7 @@
 
 [![Language](https://img.shields.io/badge/language-elixir-purple)](https://img.shields.io/badge/language-elixir-purple) [![License](https://img.shields.io/badge/license-MIT-lightgrey)](/LICENSE)
 
-Extensions methods for Elixir lists. Repository for my studies of the Elixir path of [Rocketseat Ignite](https://rocketseat.com.br).
+Extensions methods for Elixir lists. Repository for my studies of the Elixir's path from [Rocketseat Ignite](https://rocketseat.com.br).
 
 ## :rocket: Techs
 
@@ -18,7 +18,6 @@ Extensions methods for Elixir lists. Repository for my studies of the Elixir pat
 To run tests:
 
 * Run with `mix test --cover`
-* Generate coverage report as HTML with ``mix coveralls.html`` 
 
 ## :page_facing_up: License
 
