@@ -3,7 +3,7 @@ defmodule ListExt.MixProject do
 
   def project do
     [
-      app: :list_ext,
+      app: :list_length,
       version: "0.1.0",
       elixir: "~> 1.11",
       start_permanent: Mix.env() == :prod,

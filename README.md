@@ -1,8 +1,8 @@
-# ListExt
+# ListLength
 
 [![Language](https://img.shields.io/badge/language-elixir-purple)](https://img.shields.io/badge/language-elixir-purple) [![License](https://img.shields.io/badge/license-MIT-lightgrey)](/LICENSE)
 
-Extensions methods for Elixir lists. Repository for my studies of the Elixir's path from [Rocketseat Ignite](https://rocketseat.com.br).
+Repository for the first challenge of the Elixir's path from [Rocketseat Ignite](https://rocketseat.com.br).
 
 ## :rocket: Techs
 
